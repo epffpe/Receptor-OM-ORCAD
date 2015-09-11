@@ -1,0 +1,48 @@
+AutoECO Report
+FILE-A: D:\DESIGNS\ORCAD\RECEPTOR OM.MAX
+FILE-B: D:\DESIGNS\ORCAD\RECEPTOR OM.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint TO92
+Adding footprint RAD/CK05
+Found footprint DIP.100/8/W.300/L.400 from PRT file for original FP DIP8, comp U1
+Adding footprint DISC/.350X.175/LS.200X.100/.034
+Adding package BC239
+Adding package R
+Adding package C
+Adding package TL081
+Adding package DIODE
+Adding package L
+Adding component Q1
+Adding component RDEM
+Found footprint AX/.425X.100/.031 from PRT file for part R, comp RDEM
+Adding component CDEM
+Adding component U1
+Adding component C2
+Adding component CREG
+Adding component C4
+Adding component CIN
+Adding component RB2
+Adding component D3
+Found footprint CYL/D.200/LS.100/.031 from PRT file for part DIODE, comp D3
+Adding component RE
+Adding component RB1
+Adding component RC
+Adding component R3
+Adding component R4
+Adding component L1
+Adding net ANTENA
+Adding net REG
+Adding net N02404
+Adding net OUT_T
+Adding net VCC
+Adding net DEM
+Adding net N00503
+Adding net N00547
+Adding net N00689
+Adding net N002011
+Adding net N00822
+Adding net N00890
+Adding net GND
+Deleting net DEFAULT
+*EOF*
+No errors found

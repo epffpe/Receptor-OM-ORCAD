@@ -1,0 +1,73 @@
+AutoECO Report
+FILE-A: D:\DESIGNS\ORCAD\RECEPTOR OM MODIFICADO.MAX
+FILE-B: D:\DESIGNS\ORCAD\RECEPTOR OM.MNL
+If "*EOF*" immediately follows, no changes were made
+Net IN renamed to ANTENA
+Net REGENERACION renamed to REG
+Deleting R6.1 from net DEM
+Deleting 28.1 from net DEM
+Deleting 27.1 from net GND
+Deleting 37.1 from net GND
+Deleting 42.1 from net GND
+Deleting 23.1 from net GND
+Deleting 24.1 from net GND
+Deleting 43.1 from net GND
+Deleting U2.3 from net GND
+Deleting 20.1 from net GND
+Deleting 19.1 from net GND
+Deleting C5.1 from net GND
+Deleting U2.4 from net GND
+Deleting 35.2 from net GND
+Deleting 30.1 from net GND
+Adding U1.5 to net GND
+Deleting 18.1 from net ANTENA
+Deleting 36.1 from net OUT_T
+Deleting 25.1 from net REG
+Deleting 29.1 from net VCC
+Deleting U2.6 from net VCC
+Deleting 35.1 from net VCC
+Deleting R5.2 from net VCC
+Deleting component 43
+Deleting component 42
+Deleting component 41
+Deleting component 40
+Deleting component 39
+Deleting component 38
+Deleting component U2
+Deleting component R7
+Deleting component R6
+Deleting component C5
+Deleting component C3
+Deleting component 36
+Deleting component 24
+Deleting component 37
+Deleting component R5
+Deleting component 35
+Deleting component 30
+Deleting component 29
+Deleting component 28
+Deleting component 27
+Deleting component 26
+Deleting component 25
+Deleting component 23
+Deleting component 22
+Deleting component 21
+Deleting component 20
+Deleting component 19
+Deleting component 18
+Deleting component 17
+Deleting net VOLUMEN
+Deleting net SAL
+Deleting net REGEN
+Deleting net NET_28
+Deleting net NET_25
+Deleting net NET_24
+Deleting net NET_22
+Deleting net NET_20
+Deleting net NET_15
+Deleting net FREQ
+Deleting net FEEDBACK
+Deleting net CAPACITOR
+Deleting net AUDIO
+*EOF*
+No errors found

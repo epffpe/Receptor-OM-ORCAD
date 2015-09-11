@@ -1,0 +1,2412 @@
+Mon Apr 14 23:35:48 Log file reset
+Mon Apr 14 23:35:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\DEFAULT.MAX
+Mon Apr 14 23:35:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Mon Apr 14 23:35:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Mon Apr 14 23:36:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.met
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Mon Apr 14 23:38:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Mon Apr 14 23:38:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Footprint coords will be rounded to nearest base unit.
+Mon Apr 14 23:38:16 Loaded file D:\DESIGNS\ORCAD\RECEPTOR HF.MAX
+Mon Apr 14 23:38:16 Saved as file D:\DESIGNS\ORCAD\RECEPTOR HF.MAX
+Mon Apr 14 23:38:16 Loaded file D:\DESIGNS\ORCAD\RECEPTOR HF.MAX
+Sun Apr 20 22:24:06 Saved as file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Sun Apr 20 22:24:06 Saved as file BACKUP1.MAX
+Sun Apr 20 22:24:06 Saved as file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Sun Apr 20 22:24:07 UserDiv from Layout.INI for AutoECO: 60
+Sun Apr 20 22:24:07 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Sun Apr 20 22:24:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Sun Apr 20 22:24:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Sun Apr 20 22:24:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Sun Apr 20 22:24:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Sun Apr 20 22:24:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Sun Apr 20 22:24:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Sun Apr 20 22:24:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:10 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:24:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\DEFAULT.MAX
+Sun Apr 20 22:24:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Sun Apr 20 22:24:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Sun Apr 20 22:24:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:24:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:25:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.met
+Sun Apr 20 22:27:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Sun Apr 20 22:27:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Sun Apr 20 22:28:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Sun Apr 20 22:28:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Sun Apr 20 22:28:38 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:28:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Sun Apr 20 22:29:04 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:29:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Sun Apr 20 22:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Sun Apr 20 22:31:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Sun Apr 20 22:31:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Sun Apr 20 22:33:45 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:33:45 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:33:45 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:33:48 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:33:48 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:34:09 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:34:10 Saved as file BACKUP1.MAX
+Sun Apr 20 22:34:48 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:34:49 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:34:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.met
+Sun Apr 20 22:35:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.met
+Sun Apr 20 22:35:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.met
+Sun Apr 20 22:35:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.met
+Sun Apr 20 22:35:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:35:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:35:16 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:35:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:35:18 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:35:18 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:35:18 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:35:18 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:35:18 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:35:19 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:35:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Sun Apr 20 22:35:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Sun Apr 20 22:35:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Sun Apr 20 22:35:20 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:36:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:36:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:36:37 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:36:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:36:39 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:36:39 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:36:39 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:36:39 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:36:39 Footprint coords will be rounded to nearest base unit.
+Sun Apr 20 22:36:41 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Apr 20 22:37:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:37:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:37:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Sun Apr 20 22:37:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:37:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:39:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:40:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:40:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:40:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:40:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:40:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sun Apr 20 22:41:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 00:58:57 Saved as file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 00:58:58 Saved as file BACKUP1.MAX
+Fri Apr 25 00:58:58 Saved as file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 00:58:59 UserDiv from Layout.INI for AutoECO: 60
+Fri Apr 25 00:58:59 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 00:59:00 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Fri Apr 25 00:59:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Fri Apr 25 00:59:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Fri Apr 25 00:59:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Fri Apr 25 00:59:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 00:59:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\DEFAULT.MAX
+Fri Apr 25 00:59:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 00:59:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 00:59:08 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 00:59:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.met
+Fri Apr 25 01:09:10 Saved as file BACKUP1.MAX
+Fri Apr 25 01:14:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:15:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:16:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:16:43 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:16:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:17:05 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:17:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:17:32 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:17:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:18:00 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:18:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:18:39 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:18:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:19:40 Saved as file BACKUP1.MAX
+Fri Apr 25 01:20:05 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:20:05 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:20:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:20:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:20:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:21:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:21:08 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:21:16 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:21:17 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:21:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.met
+Fri Apr 25 01:21:42 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:21:42 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:25:03 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:25:03 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:25:15 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:25:15 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:25:15 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:25:15 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:25:39 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 01:25:54 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 01:25:55 Saved as file BACKUP1.MAX
+Fri Apr 25 01:25:55 Saved as file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 01:25:55 UserDiv from Layout.INI for AutoECO: 60
+Fri Apr 25 01:25:55 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 01:25:55 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Fri Apr 25 01:25:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:25:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:25:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:26:01 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:26:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:26:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:03 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:04 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:26:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:12 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:13 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:26:14 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 01:26:14 Saved as file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 01:26:14 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 01:30:40 Saved as file BACKUP1.MAX
+Fri Apr 25 01:30:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:30:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:30:50 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:30:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:30:52 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:30:52 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:30:52 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:30:52 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:30:52 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:30:52 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:30:53 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Fri Apr 25 01:30:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Fri Apr 25 01:30:53 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:31:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\DEFAULT.MAX
+Fri Apr 25 01:31:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:31:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:31:08 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:31:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.met
+Fri Apr 25 01:31:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:31:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:32:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:33:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\padstack.llb
+Fri Apr 25 01:33:26 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:33:26 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:33:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:33:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:33:37 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:33:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:33:39 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:33:39 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:33:39 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:33:39 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:33:39 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:33:39 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:33:40 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Fri Apr 25 01:33:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Fri Apr 25 01:33:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Fri Apr 25 01:33:41 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:34:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:27 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Fri Apr 25 01:34:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Fri Apr 25 01:34:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Fri Apr 25 01:34:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Fri Apr 25 01:34:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Fri Apr 25 01:34:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Fri Apr 25 01:34:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Fri Apr 25 01:34:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Fri Apr 25 01:34:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Fri Apr 25 01:34:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Fri Apr 25 01:34:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Fri Apr 25 01:34:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Fri Apr 25 01:34:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:34:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Fri Apr 25 01:35:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 01:35:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Fri Apr 25 01:35:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Fri Apr 25 01:35:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Fri Apr 25 01:35:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Fri Apr 25 01:35:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Fri Apr 25 01:35:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Fri Apr 25 01:35:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:35:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Fri Apr 25 01:36:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Fri Apr 25 01:36:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Fri Apr 25 01:36:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Fri Apr 25 01:36:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Fri Apr 25 01:36:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Fri Apr 25 01:36:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Fri Apr 25 01:36:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Fri Apr 25 01:36:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:36:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Fri Apr 25 01:37:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Fri Apr 25 01:37:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Fri Apr 25 01:37:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Fri Apr 25 01:37:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Fri Apr 25 01:37:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:37:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Fri Apr 25 01:39:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Fri Apr 25 01:39:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 01:39:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:39:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:40:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:40:46 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:41:10 Saved as file BACKUP1.MAX
+Fri Apr 25 01:42:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:42:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Fri Apr 25 01:43:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Fri Apr 25 01:43:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Fri Apr 25 01:43:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Fri Apr 25 01:43:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Fri Apr 25 01:43:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Fri Apr 25 01:43:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\DEFAULT.MAX
+Fri Apr 25 01:43:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:43:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Fri Apr 25 01:47:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:16 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Footprint coords will be rounded to nearest base unit.
+Fri Apr 25 01:47:20 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 01:47:20 Saved as file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Fri Apr 25 01:47:20 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Sun Jun 01 03:50:19 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 03:50:19 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 03:50:35 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 03:50:40 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 03:50:44 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 03:52:28 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:52:40 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 03:52:47 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:52:51 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 03:52:56 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:53:04 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 03:53:23 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:55:57 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:56:07 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:56:24 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:56:33 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:56:46 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:56:57 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:57:27 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:57:37 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:57:41 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:57:45 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:57:58 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 03:58:00 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:58:10 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 03:58:16 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:58:36 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:58:49 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 03:58:55 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:59:09 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 03:59:34 Loaded file C:\Program Files\Orcad\Layout\library\padstack.llb
+Sun Jun 01 04:00:03 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:00:05 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:00:05 Loaded file C:\Program Files\Orcad\Layout\data\template.met
+Sun Jun 01 04:04:11 Saved as file BACKUP1.MAX
+Sun Jun 01 04:05:17 Saved as file ~undo.max
+Sun Jun 01 04:06:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Sun Jun 01 04:06:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Sun Jun 01 04:06:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Sun Jun 01 04:06:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Sun Jun 01 04:06:22 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Sun Jun 01 04:06:31 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Sun Jun 01 04:06:38 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:39 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:42 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:42 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:43 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:43 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:43 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:43 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:43 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:44 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:44 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:44 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:45 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:45 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:45 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:45 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:46 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:47 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:48 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:48 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:48 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:48 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:48 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:53 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:53 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:53 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:54 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:54 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:54 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:54 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:55 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:55 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:56 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:56 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:06:57 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:07:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:07:02 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:07:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:07:04 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:07:05 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:07:06 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:07 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:07:32 Saved as file ~undo.max
+Sun Jun 01 04:07:46 Saved as file ~undo.max
+Sun Jun 01 04:08:18 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:08:18 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:08:20 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:08:25 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:08:25 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:25 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:25 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:25 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:25 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:25 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:30 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:08:31 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:10:27 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:10:27 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:10:29 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:10:30 Loaded file C:\Program Files\Orcad\Layout\data\template.met
+Sun Jun 01 04:10:32 Loaded file C:\Program Files\Orcad\Layout\data\template.met
+Sun Jun 01 04:16:09 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:16:09 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:16:40 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:16:40 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:16:41 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:16:41 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:16:44 Loaded file C:\Program Files\Orcad\Layout\data\template.met
+Sun Jun 01 04:17:58 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:17:58 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:17:59 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:18:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:01 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:13 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:18:13 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:18:14 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:18:17 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:17 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:24 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:18:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:18:54 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:18:56 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:18:56 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:19:00 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:22:33 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:22:33 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:22:35 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:22:37 Loaded file C:\Program Files\Orcad\Layout\data\template.met
+Sun Jun 01 04:28:27 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:28:27 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:28:28 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:28:28 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:28:28 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:28:28 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:28:29 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:28:29 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:28:31 Loaded file C:\Program Files\Orcad\Layout\data\template.met
+Sun Jun 01 04:28:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:28:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:28:51 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:28:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:52 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:53 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:28:57 Footprint coords will be rounded to nearest base unit.
+Sun Jun 01 04:29:11 Saved as file BACKUP1.MAX
+Sun Jun 01 04:29:24 Saved as file ~undo.max
+Sun Jun 01 04:32:22 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:22 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Sun Jun 01 04:32:25 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:26 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Sun Jun 01 04:32:28 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Sun Jun 01 04:32:30 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Sun Jun 01 04:32:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Sun Jun 01 04:32:34 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:36 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Sun Jun 01 04:32:37 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Sun Jun 01 04:32:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Sun Jun 01 04:32:49 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:53 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:54 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:56 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:57 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:58 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:32:59 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:00 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:00 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:02 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:02 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:04 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:05 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:05 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:06 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:06 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:07 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:08 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:10 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:10 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:11 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:11 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sun Jun 01 04:33:35 Saved as file D:\DESIGNS\ORCAD\RADIOHF17.MAX
+Sun Jun 01 04:58:42 Saved as file BACKUP1.MAX
+Sun Jun 01 04:58:42 Saved as file D:\DESIGNS\ORCAD\RECEPTOR OM MODIFICADO.MAX
+Sun Jun 01 04:58:42 UserDiv from Layout.INI for AutoECO: 60
+Sun Jun 01 04:58:42 Loaded file D:\DESIGNS\ORCAD\RECEPTOR OM MODIFICADO.MAX
+Sun Jun 01 04:58:42 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Sun Jun 01 04:58:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Sun Jun 01 04:58:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Sun Jun 01 04:58:43 Saved as file D:\DESIGNS\ORCAD\RECEPTOR OM MODIFICADO.MAX
+Sun Jun 01 04:58:44 Loaded file D:\DESIGNS\ORCAD\RECEPTOR OM MODIFICADO.MAX
+Sat Jun 07 22:36:50 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sat Jun 07 22:36:51 Saved as file D:\DESIGNS\ORCAD\EPF.LLB
+Sat Jun 07 22:36:55 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sat Jun 07 22:36:57 Loaded file C:\Program Files\Orcad\Layout\data\template.met
+Sat Jun 07 22:37:23 Saved as file BACKUP1.MAX
+Sat Jun 07 22:38:13 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:38:13 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:38:14 Loaded file D:\DESIGNS\ORCAD\EPF.LLB
+Sat Jun 07 22:38:16 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:38:16 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:16 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:16 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:16 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:16 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:16 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:38:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:02 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:42:02 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:42:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Sat Jun 07 22:42:12 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:42:16 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:18 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:42:58 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:42:58 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:43:00 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:43:00 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:43:00 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:43:00 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:43:00 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:43:00 Footprint coords will be rounded to nearest base unit.
+Sat Jun 07 22:43:00 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Jun 07 22:44:55 Saved as file ~undo.max
+Sat Jun 07 22:44:56 Saved as file ~undo.max
+Sat Jun 07 22:45:31 Saved as file D:\DESIGNS\ORCAD\POTENCIOMETROS.MAX
+Sat Jun 07 22:45:33 Saved as file ~undo.max
+Sat Jun 07 22:46:52 Saved as file D:\DESIGNS\ORCAD\POTENCIOMETROS.MAX
+Sat Jun 07 22:47:42 Saved as file D:\DESIGNS\ORCAD\POTENCIOMETROS.MAX
+Sat Jun 07 22:47:47 Saved as file ~undo.max
+Sat Jun 07 22:48:35 Saved as file D:\DESIGNS\ORCAD\POTENCIOMETROS.MAX
+Tue Nov 25 00:28:52 Saved as file BACKUP1.MAX
+Tue Nov 25 00:28:52 Saved as file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Tue Nov 25 00:28:52 UserDiv from Layout.INI for AutoECO: 60
+Tue Nov 25 00:28:52 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Tue Nov 25 00:28:52 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON050T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIN.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PC104.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Tue Nov 25 00:28:53 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:54 Library file not found:USER.PRT
+Tue Nov 25 00:28:54 Library file not found:USER.PRT
+Tue Nov 25 00:28:57 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Footprint coords will be rounded to nearest base unit.
+Tue Nov 25 00:28:57 Library file not found:USER.PRT
+Tue Nov 25 00:28:57 Library file not found:USER.PRT
+Tue Nov 25 00:28:58 Library file not found:USER.PRT
+Tue Nov 25 00:28:58 Library file not found:USER.PRT
+Tue Nov 25 00:28:59 Library file not found:USER.PRT
+Tue Nov 25 00:28:59 Library file not found:USER.PRT
+Tue Nov 25 00:28:59 Library file not found:USER.PRT
+Tue Nov 25 00:28:59 Library file not found:USER.PRT
+Tue Nov 25 00:28:59 Library file not found:USER.PRT
+Tue Nov 25 00:28:59 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:00 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:01 Library file not found:USER.PRT
+Tue Nov 25 00:29:02 Library file not found:USER.PRT
+Tue Nov 25 00:29:02 Library file not found:USER.PRT
+Tue Nov 25 00:29:02 Library file not found:USER.PRT
+Tue Nov 25 00:29:02 Library file not found:USER.PRT
+Tue Nov 25 00:29:02 Library file not found:USER.PRT
+Tue Nov 25 00:29:02 Library file not found:USER.PRT
+Tue Nov 25 00:29:02 Library file not found:USER.PRT
+Tue Nov 25 00:29:02 Library file not found:USER.PRT
+Tue Nov 25 00:29:03 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Tue Nov 25 00:29:03 Saved as file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Tue Nov 25 00:29:03 Loaded file D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+Tue Nov 25 00:40:03 Saved as file BACKUP1.MAX

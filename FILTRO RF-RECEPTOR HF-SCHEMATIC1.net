@@ -1,0 +1,48 @@
+* source FILTRO RF-RECEPTOR HF
+.EXTERNAL OUTPUT DET
+.EXTERNAL OUTPUT CAG
+.EXTERNAL OUTPUT OL6
+.EXTERNAL OUTPUT OL7
+.EXTERNAL OUTPUT FI
+.EXTERNAL OUTPUT RF1
+.EXTERNAL OUTPUT RF2
+.EXTERNAL OUTPUT Audio
+.EXTERNAL OUTPUT Antena
+C_C5         ANTENA RF1  390p  
+C_C3         0 N01262  100n  
+R_R5         N02830 N02800  27k  
+R_R11         N05789 0  560  
+L_L2         0 N03015  1.2u  
+R_R18         N08978 VCC  47  
+C_C12         0 N05789  100n  
+R_R20         N11764 N11791  10  
+C_C7         RF2 ANTENA  680p  
+C_C19         N08835 AUDIO  100n  
+R_R17         AUDIO 0  2.7k  
+R_R16         N06553 AUDIO  10k  
+C_C9         0 RF2  100n  
+R_R13         N05744 0  220  
+R_R3         N03158 N02919  100k  
+C_C11         VCC N07070  1500p  
+R_R12         N04491 VCC  100k  
+L_L1         RF2 RF1  0.3266uH  
+R_R15         N06050 VCC  6.8k  
+R_R8         N04724 N04770  10  
+C_C23         0 N11764  50n  
+R_R1         VCC N01262  100  
+C_C18         0 AUDIO  2.2n  
+C_C14         0 N05744  100n  
+R_R7         0 N06050  2.2k  
+R_R4         0 OL7  22k  
+R_R9         N04990 VCC  1.5k  
+C_C21         0 VCC  100n  
+C_C6         OL7 OL6  220p  
+C_C15         0 VCC  100n  
+C_C10         0 OL7  1n  
+R_R14         N04523 N06553  1k  
+C_C13         0 VCC  100n  
+C_C8         0 N02919  100n  
+C_C4         N03015 OL6  100p  
+C_C16         0 VCC  100n  
+X_D1         N03015 0 N03158 BB804/SIE
+C_C2         0 VCC  100n  

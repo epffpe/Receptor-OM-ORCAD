@@ -1,0 +1,28 @@
+AutoECO Report
+FILE-A: D:\DESIGNS\ORCAD\PRUEBA PC BOARD.MAX
+FILE-B: D:\DESIGNS\ORCAD\PRUEBA PC BOARD.MNL
+If "*EOF*" immediately follows, no changes were made
+Net in renamed to IN
+Adding net VCC
+Deleting 14.1 from net GND
+Deleting R3.1 from net GND
+Deleting 16.1 from net GND
+Adding R4.1 to net GND
+Deleting R4.1 from net N00373
+Adding R1.1 to net N00373
+Deleting R1.1 from net N00489
+Adding R3.1 to net N00489
+Deleting R3.2 from net N00601
+Adding R4.2 to net N00601
+Deleting R1.2 from net OUT
+Adding R3.2 to net OUT
+Deleting 15.1 from net IN
+Adding R1.2 to net VCC
+Deleting component 16
+Deleting component 15
+Deleting component 14
+Deleting component 13
+Deleting net Vcc
+Deleting net VCC_ARROW
+*EOF*
+No errors found

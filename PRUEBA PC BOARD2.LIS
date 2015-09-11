@@ -1,0 +1,31 @@
+AutoECO Report
+FILE-A: D:\DESIGNS\ORCAD\PRUEBA PC BOARD2.MAX
+FILE-B: D:\DESIGNS\ORCAD\PRUEBA PC BOARD.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint DISC/.350X.175/LS.200X.100/.034
+Adding package L
+Adding package BC238B
+Adding package R
+Adding package C
+Adding component L1
+Adding component Q1
+Found footprint TO226AB from PRT file for part BC238B, comp Q1
+Adding component R3
+Found footprint AX/.425X.100/.031 from PRT file for part R, comp R3
+Adding component R2
+Adding component R4
+Adding component C1
+Found footprint AX/.300X.100/.028 from PRT file for part C, comp C1
+Adding component R1
+Adding component C2
+Adding net N00373
+Adding net GND
+Adding net N00489
+Adding net N00601
+Adding net N00569
+Adding net OUT
+Adding net IN
+Adding net VCC
+Deleting net DEFAULT
+*EOF*
+No errors found

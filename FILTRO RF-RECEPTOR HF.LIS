@@ -1,0 +1,101 @@
+AutoECO Report
+FILE-A: D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MAX
+FILE-B: D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint RAD/CK05
+Adding footprint AX/RC05
+Adding footprint DISC/.350X.175/LS.200X.100/.034
+Adding footprint TO92
+Adding package C
+Adding package R
+Adding package SFE10.7
+Adding package L
+Adding package POT/SM
+Adding package TRANSFORMER_CT
+Adding package C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/C
+Adding package ANTENNA
+Adding package BF240
+Adding package LM386
+Adding package DIPSOC-4X2
+Adding package SPEAKER
+Adding package DIODE
+Adding package BB804/SIE
+Adding component C5
+Adding component C3
+Adding component R5
+Adding component Y2
+ERROR: No footprint found for comp Y2
+Adding component R11
+Adding component L2
+Adding component R18
+Adding component C12
+Adding component R20
+Adding component R2
+ERROR: No footprint found for comp R2
+Adding component T1
+ERROR: No footprint found for comp T1
+Adding component C7
+Adding component C19
+Adding component R17
+Adding component R16
+Adding component C22
+ERROR: No footprint found for comp C22
+Adding component C9
+Adding component R13
+Adding component R6
+ERROR: No footprint found for comp R6
+Adding component R3
+Adding component C11
+Adding component R12
+Adding component L1
+Adding component R15
+Adding component R8
+Adding component C23
+Adding component R1
+Adding component C18
+Adding component E1
+ERROR: No footprint found for comp E1
+Adding component Q1
+ERROR: No footprint found for comp Q1
+Adding component C14
+Adding component R7
+Adding component U1
+ERROR: No footprint found for comp U1
+Adding component R4
+Adding component Q2
+ERROR: No footprint found for comp Q2
+Adding component R9
+Adding component C21
+Adding component J1
+ERROR: No footprint found for comp J1
+Adding component C6
+Adding component C15
+Adding component Y1
+ERROR: No footprint found for comp Y1
+Adding component C10
+Adding component R14
+Adding component C17
+ERROR: No footprint found for comp C17
+Adding component R19
+ERROR: No footprint found for comp R19
+Adding component LS1
+ERROR: No footprint found for comp LS1
+Adding component C13
+Adding component C8
+Adding component C24
+ERROR: No footprint found for comp C24
+Adding component D2
+ERROR: No footprint found for comp D2
+Adding component C4
+Adding component C16
+Adding component C1
+ERROR: No footprint found for comp C1
+Adding component C20
+ERROR: No footprint found for comp C20
+Adding component D1
+Adding component C2
+Adding component R10
+ERROR: No footprint found for comp R10
+*EOF*
+Unable to complete ECO due to errors
+19 errors found

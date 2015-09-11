@@ -1,0 +1,18 @@
+AutoECO Error Report
+FILE-A: D:\DESIGNS\ORCAD\RECEPTOR HF.MAX
+FILE-B: D:\DESIGNS\ORCAD\FILTRO RF-RECEPTOR HF.MNL
+ERROR: No footprint found for comp Y2
+ERROR: No footprint found for comp R2
+ERROR: No footprint found for comp T1
+ERROR: No footprint found for comp R6
+ERROR: No footprint found for comp E1
+ERROR: No footprint found for comp Q1
+ERROR: No footprint found for comp U1
+ERROR: No footprint found for comp Q2
+ERROR: No footprint found for comp J1
+ERROR: No footprint found for comp Y1
+ERROR: No footprint found for comp R19
+ERROR: No footprint found for comp LS1
+ERROR: No footprint found for comp R10
+Unable to complete ECO due to errors
+13 errors found
